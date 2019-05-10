@@ -73,7 +73,7 @@ var quizJSON = {
 
 var historyQuizJSON = {
     "info": {
-        "name":    "FLBA History!!",
+        "name":    "FBLA History!!",
         "main":    "<p>Think you're smart enough to be on FBLA-Jeopardy? Find out with this FBLA history knowledge quiz!</p>",
         "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
         "level1":  "FBLA-Jeopardy Ready",
@@ -84,7 +84,7 @@ var historyQuizJSON = {
     },
     "questions": [
  {
-   "q": "Who is the founder of FLBA?",
+   "q": "Who is the founder of FBLA?",
    "a": [
       {
          "option": "Hamden L. Forkner",

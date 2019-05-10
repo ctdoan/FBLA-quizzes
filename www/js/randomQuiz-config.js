@@ -5,7 +5,7 @@
 
 var quizJSON = {
     "info": {
-        "name":    "FLBA Random!!",
+        "name":    "FBLA Random!!",
         "main":    "<p>Think you're smart enough to be on FBLA-Jeopardy? Find out with this FBLA knowledge quiz, covering all 5 FBLA categories: history, National Leadership conference, national officers, parlimentary procedure, and sponsors!</p>",
         "results": "<h5>Learn More</h5><p><a href='index.html'>Go back and take another quiz</a></p>",
         "level1":  "FBLA-Jeopardy Ready",
@@ -64,7 +64,7 @@ var quizJSON = {
    "select_any": ""
 },
  {
-   "q": "Who is the founder of FLBA?",
+   "q": "Who is the founder of FBLA?",
    "a": [
       {
          "option": "Hamden L. Forkner",

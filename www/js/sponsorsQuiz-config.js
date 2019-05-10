@@ -5,7 +5,7 @@
 
 var quizJSON = {
     "info": {
-        "name":    "FLBA Sponsors!!",
+        "name":    "FBLA Sponsors!!",
         "main":    "<p>Think you're smart enough to be on FBLA-Jeopardy? Find out with this FBLA sponsors quiz!</p>",
         "results": "<h5>Learn More</h5><p><a href='index.html'>Go back and take another quiz</a></p>",
         "level1":  "FBLA-Jeopardy Ready",
